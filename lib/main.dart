@@ -10,7 +10,7 @@ void main() {
             image: AssetImage('images/bec.jpg'),
           ),
         ),
-        appBar: AppBar(
+        appBar: AppBar(centerTitle:true,
           backgroundColor: Colors.black,
           title: Center(
             child: Text("Adam rocks"),

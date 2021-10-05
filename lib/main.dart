@@ -13,7 +13,7 @@ void main() {
         appBar: AppBar(centerTitle:true,
           backgroundColor: Colors.black,
           title: Center(
-            child: Text("Adam rocks"),
+            child: Text("Adam rocks!"),
           ),
         ),
         backgroundColor: Colors.greenAccent,

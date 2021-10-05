@@ -16,7 +16,7 @@ void main() {
             child: Text("Adam rocks"),
           ),
         ),
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.greenAccent,
       ),
     ),
   );

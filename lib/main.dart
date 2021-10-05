@@ -11,12 +11,12 @@ void main() {
           ),
         ),
         appBar: AppBar(centerTitle:true,
-          backgroundColor: Colors.black,
+          backgroundColor: Colors.green[900],
           title: Center(
             child: Text("Adam rocks"),
           ),
         ),
-        backgroundColor: Colors.greenAccent,
+        backgroundColor: Colors.lightGreenAccent[400],
       ),
     ),
   );

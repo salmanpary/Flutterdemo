@@ -11,9 +11,9 @@ void main() {
           ),
         ),
         appBar: AppBar(
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.black,
           title: Center(
-            child: Text("kannapi rocks"),
+            child: Text("Adam rocks"),
           ),
         ),
         backgroundColor: Colors.black,

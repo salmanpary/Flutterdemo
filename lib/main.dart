@@ -11,7 +11,7 @@ void main() {
           ),
         ),
         appBar: AppBar(centerTitle:true,
-          backgroundColor: Colors.green[900],
+          backgroundColor: Colors.blue[900],
           title: Center(
             child: Text("The Program is compiledsuccesfully!"),
           ),

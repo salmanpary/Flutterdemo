@@ -10,10 +10,11 @@ void main() {
             image: AssetImage('images/bec.jpg'),
           ),
         ),
-        appBar: AppBar(centerTitle:true,
+        appBar: AppBar(
+          centerTitle: true,
           backgroundColor: Colors.blue[900],
           title: Center(
-            child: Text("The Program is compiledsuccesfully! by salman"),
+            child: Text("Demo Flutter App"),
           ),
         ),
         backgroundColor: Colors.lightGreenAccent[400],
